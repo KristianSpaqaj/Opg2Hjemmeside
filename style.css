@@ -1,0 +1,17 @@
+.jumbotron {
+    background-image: url("zealandfarve.png");
+    padding: 0%;
+    
+}
+.h1
+{
+    text-align: center;
+}
+p
+{
+    font-size: 16px;
+}
+#link 
+{
+    background-color: #FFF482;
+}
